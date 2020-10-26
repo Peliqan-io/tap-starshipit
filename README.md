@@ -23,10 +23,10 @@ The tap requires the developer Subscription Key which needs to be registered (ht
 Config properties:
 
 | Property | Example | Description |
-| -------- | -------- | ------- | ----------- |
-| `subscription_key` | Y | "64d*******a94" | the Developer Subscription Key |
-| `api_key` | Y | "8pp*******z99" | StarShipIt API Key |
-| `start_date` | Y | "2010-01-01T00:00:00Z" | The default start date to use. |
+|-------- | -------- | ------- |
+| `subscription_key` |"64d*******a94" | the Developer Subscription Key |
+| `api_key` | "8pp*******z99" | StarShipIt API Key |
+| `start_date` | "2010-01-01T00:00:00Z" | The default start date to use. |
 
 
 ## Usage
