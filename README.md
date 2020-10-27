@@ -28,6 +28,11 @@ Config properties:
 | `api_key` | "8pp*******z99" | StarShipIt API Key |
 | `start_date` | "2010-01-01T00:00:00Z" | The default start date to use. |
 
+## Installation
+
+```shell script
+pip install https://github.com/Zookal/tap-starshipit/archive/0.0.1.zip
+```
 
 ## Usage
 
