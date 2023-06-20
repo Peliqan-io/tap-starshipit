@@ -12,7 +12,7 @@ setup(name='tap-starshipit',
       install_requires=[
           'backoff==1.8.0',
           'requests==2.21.0',
-          'singer-python==5.8.0'
+          'singer-python @ git+https://github.com/peliqan-io/singer-python@master'
       ],
       entry_points='''
           [console_scripts]
